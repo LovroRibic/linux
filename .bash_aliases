@@ -1,6 +1,8 @@
 # This file contains my bash aliases
 # some aliases may already exist in the default .bashrc depending on the distro but I include them anyway
 # to bypass an alias use \ before the command
+# to download this file use: 
+# wget -O ~/.bash_aliases https://raw.githubusercontent.com/LovroRibic/linux/main/.bash_aliases
 
 alias ls='ls -1'
 alias la='ls -lah'
