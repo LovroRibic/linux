@@ -6,7 +6,7 @@
 
 alias ls='ls -1 --color=auto'
 alias la='ls -lah'
-alias grep='grep -i'
+alias grep='grep -i --color=auto'
 alias ff='la | grep'
 alias du='du -h'
 alias pc='apt list --installed | wc -l'
