@@ -4,7 +4,7 @@
 # to download this file use: 
 # wget -O ~/.bash_aliases https://raw.githubusercontent.com/LovroRibic/linux/main/.bash_aliases
 
-alias ls='ls -1'
+alias ls='ls -1 --color=auto'
 alias la='ls -lah'
 alias grep='grep -i'
 alias ff='la | grep'
