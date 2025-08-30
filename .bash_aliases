@@ -5,7 +5,7 @@
 # wget -O ~/.bash_aliases https://raw.githubusercontent.com/LovroRibic/linux/main/.bash_aliases
 
 alias ls='ls -1 --color=auto'
-alias la='ls -lah'
+alias la='ls -lAhF'
 alias grep='grep -i --color=auto'
 alias ff='la | grep'
 alias du='du -h'
